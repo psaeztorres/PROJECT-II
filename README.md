@@ -9,6 +9,7 @@
 
 Unfortunately it is not all in main and src + visualization folders due to errors that I have not been able to solve
 
+## PRESENTATION LINK: https://www.canva.com/design/DAFypO896JU/3IDki5jhlh102t44gQXxTg/edit
 
 ## 1. Libraries and Data used:
 1.1 Libraries: <br>
